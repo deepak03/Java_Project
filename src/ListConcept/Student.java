@@ -19,6 +19,7 @@ public class Student {
 		System.out.println("Name of student is"+ dtl.Name);
 		System.out.println("Age of student is "+ dtl.Age);
 		System.out.println("Standard of student is "+ dtl.standard);
+		//modification text
 		
 	}
 	
